@@ -21,11 +21,13 @@ const ShoppingCartTotals = () => {
       </View>
       <View style={styles.row}>
         <Text style={styles.text}>Tax</Text>
-        <Text style={styles.text}>${subtotal * 0.0975}</Text>
+        <Text style={styles.text}>${(subtotal * 0.0975).toFixed(2)}</Text>
       </View>
       <View style={styles.row}>
         <Text style={styles.textBold}>Total</Text>
-        <Text style={styles.textBold}>${subtotal * 1.0975 + deliveryFee}</Text>
+        <Text style={styles.textBold}>
+          ${(subtotal * 1.0975 + deliveryFee).toFixed(2)}
+        </Text>
       </View>
     </View>
   );
