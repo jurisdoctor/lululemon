@@ -11,9 +11,11 @@ import {
 
 import React from "react";
 import products from "../data/products";
+import { useSelector } from "react-redux";
 
 const ProductDetailScreen = () => {
-  const product = products[4];
+  const { selectedProduct: product } = useSelector((state) => state.products);
+  console.log(product);
 
   const { width } = useWindowDimensions();
 

@@ -1,5 +1,6 @@
 [
   {
+    "id": 0,
     "image": "https://images.lululemon.com/is/image/lululemon/LM3DBHS_058451_1?wid=1080&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
     "images": [
       "https://images.lululemon.com/is/image/lululemon/LM3DBHS_058451_1?wid=1080&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
@@ -14,6 +15,7 @@
     "description": "The one you reach for. This long-time fan favourite is soft and comfortable all day long."
   },
   {
+    "id": 1,
     "image": "https://images.lululemon.com/is/image/lululemon/LM3EX7S_032894_1?wid=1080&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
     "images": [
       "https://images.lululemon.com/is/image/lululemon/LM3EX7S_032894_1?wid=1080&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
@@ -28,6 +30,7 @@
     "description": "Cold-weather convert. This sweat-wicking thermal layer helps lock in heat to keep you running when the temperature drops."
   },
   {
+    "id": 2,
     "image": "https://images.lululemon.com/is/image/lululemon/LM3ENHS_047855_1?wid=1080&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
     "images": [
       "https://images.lululemon.com/is/image/lululemon/LM3ENHS_047855_1?wid=1080&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72"
@@ -38,6 +41,7 @@
     "description": "Not your average cardigan. Alpaca wool and merino wool yarns blend together for a luxuriously soft layer that'll keep you toasty under a jacket or over a tee."
   },
   {
+    "id": 3,
     "image": "https://images.lululemon.com/is/image/lululemon/LM4AH5S_061859_1?wid=1080&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
     "images": [
       "https://images.lululemon.com/is/image/lululemon/LM4AH5S_061859_1?wid=1080&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72"
@@ -48,6 +52,7 @@
     "description": "Navigate the great outdoors in this insulated hoodie. Powered by ThermoChannel™ construction to lock in heat, it's made from stretchy fabric to keep you warm and agile in the cold."
   },
   {
+    "id": 4,
     "image": "https://images.lululemon.com/is/image/lululemon/LM3ERWS_033158_1?wid=1080&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
     "images": [
       "https://images.lululemon.com/is/image/lululemon/LM3ERWS_033158_1?wid=1080&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72"
@@ -58,6 +63,7 @@
     "description": "A reimagined classic. This fleece half zip puts softness first, so you can bring comfort wherever you go."
   },
   {
+    "id": 5,
     "image": "https://images.lululemon.com/is/image/lululemon/LM3CLLS_052847_1?wid=1080&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
     "images": [
       "https://images.lululemon.com/is/image/lululemon/LM3CLLS_052847_1?wid=1080&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72"
@@ -68,6 +74,7 @@
     "description": "Designed to perform on outdoor adventures, this merino wool-blend long sleeve is a technical layer for your cold-weather wardrobe."
   },
   {
+    "id": 6,
     "image": "https://images.lululemon.com/is/image/lululemon/LM3ELHS_033142_1?wid=1080&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
     "images": [
       "https://images.lululemon.com/is/image/lululemon/LM3ELHS_033142_1?wid=1080&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72"
@@ -78,6 +85,7 @@
     "description": "'Out of Office' vibes, in a polo. Minimally seamed, anti-stink fabric can handle a full day’s adventure."
   },
   {
+    "id": 7,
     "image": "https://images.lululemon.com/is/image/lululemon/LM3ES1S_064714_1?wid=1080&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
     "images": [
       "https://images.lululemon.com/is/image/lululemon/LM3ES1S_064714_1?wid=1080&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72"
@@ -88,6 +96,7 @@
     "description": "Softness starts here. This lightweight jersey half zip has a softly brushed interior that makes downtime irresistible."
   },
   {
+    "id": 8,
     "image": "https://images.lululemon.com/is/image/lululemon/LM3EJXS_063407_1?wid=1080&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
     "images": [
       "https://images.lululemon.com/is/image/lululemon/LM3EJXS_063407_1?wid=1080&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72"
@@ -98,6 +107,7 @@
     "description": "All bets on sweat. Powered by anti-stink technology, this training top won't cling to sweaty skin so you can stay comfortable and focused."
   },
   {
+    "id": 9,
     "image": "https://images.lululemon.com/is/image/lululemon/LM3EX3S_035955_1?wid=1080&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
     "images": [
       "https://images.lululemon.com/is/image/lululemon/LM3EX3S_035955_1?wid=1080&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72"
@@ -108,6 +118,7 @@
     "description": "A reimagined classic. This fleece full-zip hoodie puts softness first, so you can bring comfort wherever you go."
   },
   {
+    "id": 10,
     "image": "https://images.lululemon.com/is/image/lululemon/LM4AHDS_027597_1?wid=1080&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
     "images": [
       "https://images.lululemon.com/is/image/lululemon/LM4AHDS_027597_1?wid=1080&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72"
@@ -118,6 +129,7 @@
     "description": "Take your workout outdoors. We made this jacket with panels of technical mesh fabric for that breezy feeling on sweaty skin."
   },
   {
+    "id": 11,
     "image": "https://images.lululemon.com/is/image/lululemon/LM3ES3S_065303_1?wid=1080&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
     "images": [
       "https://images.lululemon.com/is/image/lululemon/LM3ES3S_065303_1?wid=1080&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72"
@@ -128,6 +140,7 @@
     "description": "Softness starts here. This lightweight jersey top has a softly brushed interior that makes downtime irresistible."
   },
   {
+    "id": 12,
     "image": "https://images.lululemon.com/is/image/lululemon/LM3EXRS_027597_1?wid=1080&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
     "images": [
       "https://images.lululemon.com/is/image/lululemon/LM3EXRS_027597_1?wid=1080&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72"
@@ -138,6 +151,7 @@
     "description": "This blazer's destination? Wherever you're headed. Lightweight, easy-care fabric on this travel- and commute-friendly layer helps you feel ready for anything."
   },
   {
+    "id": 13,
     "image": "https://images.lululemon.com/is/image/lululemon/LM3EX9S_029824_1?wid=1080&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
     "images": [
       "https://images.lululemon.com/is/image/lululemon/LM3EX9S_029824_1?wid=1080&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72"
@@ -148,6 +162,7 @@
     "description": "Designed for slow mornings and easy afternoons. This anorak uses spacer construction to create a lofty fabric that keeps you warm without overheating."
   },
   {
+    "id": 14,
     "image": "https://images.lululemon.com/is/image/lululemon/LM1244S_063190_1?wid=1080&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
     "images": [
       "https://images.lululemon.com/is/image/lululemon/LM1244S_063190_1?wid=1080&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72"
@@ -158,6 +173,7 @@
     "description": "Intention of the day? Move without restriction. This ultra-soft silk-blend yoga top likes crow pose, savasana, and everything in between."
   },
   {
+    "id": 15,
     "image": "https://images.lululemon.com/is/image/lululemon/LM4AGZS_027597_1?wid=1080&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
     "images": [
       "https://images.lululemon.com/is/image/lululemon/LM4AGZS_027597_1?wid=1080&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72"
