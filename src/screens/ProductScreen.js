@@ -15,7 +15,6 @@ const ProductScreen = () => {
       renderItem={({ item }) => (
         <Pressable
           onPress={() => {
-            console.log(item);
             dispatch(setSelectedProduct(item.id));
             navigation.navigate("Product Details");
           }}
