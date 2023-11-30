@@ -3,7 +3,7 @@ export default [
     product: {
       id: "1",
       image:
-        "https://images.lululemon.com/is/image/lululemon/LM3DBHS_058451_1?wid=1080&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72g",
+        "https://images.lululemon.com/is/image/lululemon/LM3DBHS_058451_1?wid=1080&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
       name: "Five Year Basic T-Shirt 5 Pack",
       price: 198,
     },
